@@ -1,0 +1,171 @@
+{
+  "mapping": {
+    "product": "testsscenario",
+    "language": "en",
+    "generationDate": "12_18_2019",
+    "version": "production",
+    "entry": [
+      [
+        {
+          "id": "cp_storage",
+          "title": "About storage capacity",
+          "description": "In this tab, you can view the storage capacity and utilization information for your SFTP servers.Only SFTP servers that you have access to are shown here. Please contact your Administrator to request access to other SFTP servers.",
+          "link": [
+            {
+              "url": "https://docs.adobe.com/content/help/en/testsscenario/test-bertrand/sftp-management/about-sftp-management.html#about-sftp-management",
+              "title": "About SFTP management"
+            },
+            {
+              "url": "https://images-tv.adobe.com/mpcv3/8a977e03-d76c-44d3-853c-95d0b799c870_1560205338.1920x1080at3000_h264.mp4",
+              "title": "Watch demo video",
+              "contentType": "video/mp4"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "id": "cp_ip_whitelist",
+          "title": "About IP whitelisting",
+          "description": "In this tab you can whitelist IP ranges to establish connection to your SFTP servers.Only SFTP servers that you have an access to are shown here. Please contact your Administrator to request access to other SFTP servers.",
+          "link": [
+            {
+              "url": "https://docs.adobe.com/content/help/en/testsscenario/test-bertrand/sftp-management/ip-range-whitelisting.html#ip-range-whitelisting",
+              "title": "IP range whitelisting"
+            },
+            {
+              "url": "https://images-tv.adobe.com/mpcv3/8a977e03-d76c-44d3-853c-95d0b799c870_1560205338.1920x1080at3000_h264.mp4#t",
+              "title": "Watch demo video",
+              "contentType": null
+            }
+          ]
+        },
+        {
+          "id": "cp_sftp_iprange_add",
+          "title": "Add New Ip Range",
+          "description": "Define the IP Range that you want to whitelist,in the CIDR format to connect to your SFTP servers.",
+          "link": [
+            {
+              "url": "https://docs.adobe.com/content/help/en/testsscenario/test-bertrand/sftp-management/ip-range-whitelisting.html#whitelisting-ip-addresses",
+              "title": "Whitelisting IP addresses"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "id": "cp_key_management",
+          "title": "About Key Management",
+          "description": "In this tab you can manage your public keys.",
+          "link": [
+            {
+              "url": "https://docs.adobe.com/content/help/en/testsscenario/test-bertrand/sftp-management/key-management.html#key-management",
+              "title": "Key management"
+            },
+            {
+              "url": "https://images-tv.adobe.com/mpcv3/8a977e03-d76c-44d3-853c-95d0b799c870_1560205338.1920x1080at3000_h264.mp4#t",
+              "title": "Watch demo video",
+              "contentType": null
+            }
+          ]
+        },
+        {
+          "id": "cp_sftp_publicKey_add",
+          "title": "Add New Public Key",
+          "description": "Define a new public key for an instance.",
+          "link": [
+            {
+              "url": "https://docs.adobe.com/content/help/en/testsscenario/test-bertrand/sftp-management/key-management.html#installing-ssh-key",
+              "title": "Installing the SSH key"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "id": "cp_certificate_management",
+          "title": "About subdomains and SSL certificates",
+          "description": "Monitor your subdomains and SSL certificates and initiate the process for certificate renewal.",
+          "link": [
+            {
+              "url": "https://docs.adobe.com/content/help/en/testsscenario/test-bertrand/subdomains-and-certificates/about-ssl-certificates.html#about-ssl-certificates",
+              "title": "About SSL certificates"
+            },
+            {
+              "url": "https://images-tv.adobe.com/mpcv3/c32a9559-4c0f-437c-8509-f7c0f2a2a952_1566359776.1920x1080at3000_h264.mp4",
+              "title": "Watch demo video",
+              "contentType": "video/mp4"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "id": "cp_certificate_details",
+          "title": "Certificate details",
+          "description": "Get details on a certificate and initiate the renewal process.",
+          "link": [
+            {
+              "url": "https://docs.adobe.com/content/help/en/testsscenario/test-bertrand/subdomains-and-certificates/managing-ssl-certificates.html#initiating-ssl-certificate-renewal",
+              "title": "Initiating SSL certificates renewal"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "id": "cp_instancesettings_iprange",
+          "title": "About IP Whitelisting",
+          "description": "Manage IP Whitelisting to access your instances.",
+          "link": [
+            {
+              "url": "https://docs.adobe.com/content/help/en/testsscenario/test-bertrand/instances-settings/ip-whitelisting-instance-access.html#ip-whitelisting",
+              "title": "IP whitelisting"
+            },
+            {
+              "url": "https://images-tv.adobe.com/mpcv3/8a977e03-d76c-44d3-853c-95d0b799c870_1560205338.1920x1080at3000_h264.mp4#t",
+              "title": "Watch demo video",
+              "contentType": null
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "id": "cp_instancesettings_urlpermissions",
+          "title": "About URL permissions",
+          "description": "Manage the URLs that your Adobe Campaign instances can connect to. You can view, add and delete the URLs that your selected instance can connect to below.",
+          "link": [
+            {
+              "url": "https://docs.adobe.com/content/help/en/testsscenario/test-bertrand/instances-settings/url-permissions.html#url-permissions",
+              "title": "URL permissions"
+            },
+            {
+              "url": "https://images-tv.adobe.com/mpcv3/91206a19-d9af-4b6a-8197-0d2810a78941_1563488165.1920x1080at3000_h264.mp4",
+              "title": "Watch demo video",
+              "contentType": "video/mp4"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "id": "cp_instancesettings_instancedetails",
+          "title": "About Instance details",
+          "description": "View the details of your Adobe Campaign instances: types, names, build information and possible upgrade recommendations.",
+          "link": [
+            {
+              "url": "https://docs.adobe.com/content/help/en/testsscenario/test-bertrand/instances-settings/instance-details.html#instance-details",
+              "title": "Instance Details"
+            },
+            {
+              "url": "https://images-tv.adobe.com/mpcv3/8a977e03-d76c-44d3-853c-95d0b799c870_1560205338.1920x1080at3000_h264.mp4#t",
+              "title": "Watch demo video",
+              "contentType": null
+            }
+          ]
+        }
+      ]
+    ]
+  }
+}
